@@ -14,3 +14,6 @@ if (a) {
 	}
 
 fullPrice=price*100/discount;
+
+
+console.log(fullPrice);
